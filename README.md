@@ -1,5 +1,4 @@
-# smart-brain-api
-Final project for Udemy course
+# Face-recognition-api
 
     Clone this repo
     Run npm install
