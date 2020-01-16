@@ -6,7 +6,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ashwani Singh",
   "license": "ISC",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
